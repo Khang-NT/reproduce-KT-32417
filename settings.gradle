@@ -1,0 +1,2 @@
+include ':app', ':moduleB', ':moduleA'
+rootProject.name='My Application'
